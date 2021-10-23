@@ -1,9 +1,9 @@
 # Jogo da velha 
 ## Integrantes
-### NOME COMPLETO
-### NOME COMPLETO
+### EDMUNDO JOSE BATISTA
+### LARISSA ODANI
 | - | A | B | C |
 | -- | :---: | :---: | :---: |
-| 1 | W | W | W |
+| 1 |0 | W | W |
 | 2 | W | W | W |
 | 3 | W | W | W |
